@@ -1,0 +1,41 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 1000px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 5%;
+}
+
+.title.coxinha, .title.feijoada, .title.brigadeiro{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;}
+
+.title.feijoada{
+    background-color: brown;
+}
+
+.title.brigadeiro{
+    background-color: chocolate;
+}
+
+.title.coxinha{
+    background-color: orange;
+}
+
+.subtitle {
+    color: orange;
+    
+}
+
+.subtitle.recipe {
+    color: black;
+}
+
+ul, ol {background-color: orange;
+font-weight: 700;}
